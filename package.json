@@ -1,0 +1,12 @@
+{
+  "name": "playcloud-demo",
+  "version": "1.0.0",
+  "description": "A demo for PlayCloud",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkzawa/playcloud-demo.git"
+  },
+  "license": "MIT"
+}
